@@ -1,0 +1,159 @@
+/**
+ * Basic-Portfolio CSS
+ **/
+
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+
+}
+.header{
+	background: #ffffff;
+	border-color: #cccccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	float:left;
+	
+}
+
+nav {
+	background: #ffffff;
+	padding: 20px;
+	margin-bottom: 20px;
+	font-color: #777777;
+}
+
+body {
+	width:1024px;
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	width:960px;
+	border-color: #dddddd;
+
+	
+}  
+
+
+
+section {
+	float:left;
+	background: #ffffff;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:400px;
+	width:650px;
+}
+
+aside {
+	float: right;
+	padding-left: 20px;
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:100px;
+	width:270px;
+
+}
+
+article {
+	float:left;
+	background: #ffffff;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:325px;
+	width:100%;
+}
+
+h1 {
+	font-size:30px;
+}
+
+h2, h3, h4, h5, h6 {
+	
+	font-color:##ebebeb;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+
+p {
+	float:left;
+	background: #ebebeb;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-color: #ffffff;
+	height:100px;
+	width:100%;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;	
+}
+
+footer {
+	background: #666666;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	clear:both;
+}
+
+.header {
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+.nav {
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+.section {
+	float:left;
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:400px;
+	width:55%;
+}
+
+.aside {
+	float:right;
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:400px;
+	width:40%;
+}
+
+.headerleft {
+	float:left;
+	background: #4aaaa5;
+	margin-left: 75px;
+
+
+}
+
+.right {
+	float:right;
+
+}
+
+.clearfix{
+	overflow: auto;
+}
+
+
+
+#submitbutton {
+
+}
